@@ -1,0 +1,11 @@
+{
+"query":"from:RedTheBot_",
+"min_likes":3,
+"min_retweets":1,
+"min_answers":3,
+"timeline_id":"custom-1366027104463294475",
+  "hours_in_past_start":168,
+"hours_in_past_end":1,
+  "language": "fr"
+
+}
